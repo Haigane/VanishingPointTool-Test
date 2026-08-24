@@ -1,2 +1,2 @@
 # VanishingPointTool
-Unity WebGL perspective helper tool
+Unity WebGL perspective verification tool
