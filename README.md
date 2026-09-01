@@ -1,2 +1,4 @@
 # VanishingPointTool
 Unity WebGL perspective verification tool
+Unityで作った消失点の位置特定の検証用ツール
+ChatGPTが生成したスクリプトを使用しています
